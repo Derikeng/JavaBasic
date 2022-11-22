@@ -1,4 +1,4 @@
-package Homework12.Pools.Thread;
+package Homework12.Thread;
 
 import java.util.stream.IntStream;
 

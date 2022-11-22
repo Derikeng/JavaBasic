@@ -1,4 +1,4 @@
-package Homework12.Pools.Thread;
+package Homework12.Thread;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

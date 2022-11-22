@@ -1,8 +1,8 @@
 import Homework12.Pools.CallableFiles;
 import Homework12.Synchronization.*;
-import Homework12.Pools.Thread.Funds;
-import Homework12.Pools.Thread.MaxElement;
-import Homework12.Pools.Thread.RandomNumb;
+import Homework12.Thread.Funds;
+import Homework12.Thread.MaxElement;
+import Homework12.Thread.RandomNumb;
 
 import java.io.File;
 import java.io.FileWriter;
